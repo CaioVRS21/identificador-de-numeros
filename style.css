@@ -1,0 +1,43 @@
+@charset "UTF-8";
+*{
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+}
+body{
+    color: white;
+    background-color: rgb(65, 65, 226);
+    
+    margin: auto;
+
+    text-align: center;
+}
+
+section{
+    margin: auto;
+    width: 35rem;
+    padding: 0.625rem;
+
+    text-align: left;
+
+    color: black;
+    background-color: white;
+
+    border-radius: 0.625rem;
+
+    box-shadow: 0.063rem 0.063rem 0.25rem black;
+}
+
+#container1{
+
+}
+
+#container2{
+    margin-top: 0.625rem;
+}
